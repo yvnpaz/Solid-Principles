@@ -14,5 +14,5 @@ public class Player {
 	{
 		return this.position.play();
 	}
-	
+
 }

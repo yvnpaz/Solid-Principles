@@ -6,7 +6,7 @@ public class Forward implements Position {
 
 	@Override
 	public String play() {
-		return "Soy un delantero";
+		return "I'm a forward";
 	}
 
 }
