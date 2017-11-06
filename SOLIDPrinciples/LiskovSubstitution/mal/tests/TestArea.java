@@ -1,8 +1,11 @@
-package mal;
+package mal.tests;
 
 import static org.junit.Assert.*;
 
 import org.junit.Test;
+
+import mal.Cuadrado;
+import mal.Rectangle;
 
 public class TestArea {
 
