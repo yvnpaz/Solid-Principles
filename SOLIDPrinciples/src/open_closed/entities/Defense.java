@@ -6,7 +6,7 @@ public class Defense implements Position {
 
 	@Override
 	public String play() {
-		return "I'm defense";
+		return "I'm a defense";
 	}
 
 }

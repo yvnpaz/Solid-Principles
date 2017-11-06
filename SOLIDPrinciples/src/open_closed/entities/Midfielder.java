@@ -6,7 +6,7 @@ public class Midfielder implements Position {
 
 	@Override
 	public String play() {
-		return "I'm midfielder";
+		return "I'm a midfielder";
 	}
 
 }
