@@ -1,4 +1,4 @@
-package singleResponsability.entities;
+package entities;
 
 import java.util.Scanner;
 

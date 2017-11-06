@@ -1,4 +1,4 @@
-package singleResponsability.entities;
+package entities;
 
 public class Pear {
 	private String name;

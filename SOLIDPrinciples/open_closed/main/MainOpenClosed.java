@@ -5,7 +5,7 @@ import entities.Forward;
 import entities.Midfielder;
 import entities.Player;
 
-public class Main {
+public class MainOpenClosed {
 
 	public static void main(String[] args) {
 

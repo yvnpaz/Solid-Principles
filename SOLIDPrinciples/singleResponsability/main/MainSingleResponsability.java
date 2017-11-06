@@ -1,8 +1,8 @@
-package singleResponsability.main;
+package main;
 
-import singleResponsability.entities.Purchase;
+import entities.Purchase;
 
-public class Main {
+public class MainSingleResponsability {
 
 	 /**
      * @param args the command line arguments
