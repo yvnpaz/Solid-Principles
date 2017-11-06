@@ -1,11 +1,11 @@
 package bien.solucion1;
 
-public class Cuadrado implements IRectangle {
+public class Square implements IRectangle {
 
 	private int height;
 	private int width;
 	
-	public Cuadrado(int height) {
+	public Square(int height) {
 		this.height = height;
 		this.width = height;
 	}

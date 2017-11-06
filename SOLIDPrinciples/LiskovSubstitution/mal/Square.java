@@ -1,6 +1,6 @@
 package mal;
 
-public class Cuadrado extends Rectangle {
+public class Square extends Rectangle {
 
 	@Override
 	public void setWidth(int width) {

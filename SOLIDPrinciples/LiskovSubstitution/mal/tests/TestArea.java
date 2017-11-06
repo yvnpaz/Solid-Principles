@@ -4,7 +4,7 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-import mal.Cuadrado;
+import mal.Square;
 import mal.Rectangle;
 
 public class TestArea {
@@ -19,7 +19,7 @@ public class TestArea {
 	
 	@Test
 	public void testAreaSquare() {
-		Cuadrado r = new Cuadrado();
+		Square r = new Square();
 		r.setWidth(5);
 		r.setHeight(4);
 		assertEquals(20, r.calculateArea());

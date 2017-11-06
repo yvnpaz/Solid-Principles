@@ -4,7 +4,7 @@ import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
-import bien.solucion2.Cuadrado;
+import bien.solucion2.Square;
 import bien.solucion2.Rectangle;
 
 public class TestArea {
@@ -17,7 +17,7 @@ public class TestArea {
 	
 	@Test
 	public void testAreaSquare() {
-		Rectangle r = new Cuadrado(5);
+		Rectangle r = new Square(5);
 		assertEquals(25, r.calculateArea());
 	}
 }
