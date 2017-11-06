@@ -1,4 +1,4 @@
-package singleResponsability;
+package singleResponsability.main;
 
 import singleResponsability.entities.Purchase;
 
