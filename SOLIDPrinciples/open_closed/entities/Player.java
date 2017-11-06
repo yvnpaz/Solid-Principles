@@ -1,6 +1,6 @@
-package open_closed.entities;
+package entities;
 
-import open_closed.boundaries.Position;
+import boundaries.Position;
 
 public class Player {
 

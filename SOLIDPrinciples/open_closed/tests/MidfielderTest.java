@@ -1,10 +1,10 @@
-package open_closed.tests;
+package tests;
 
 import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-import open_closed.entities.Midfielder;
+import entities.Midfielder;
 
 public class MidfielderTest {
 

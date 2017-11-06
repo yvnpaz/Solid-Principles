@@ -1,10 +1,10 @@
-package open_closed.tests;
+package tests;
 
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
-import open_closed.entities.Defense;
+import entities.Defense;
 
 
 public class DefenseTest {

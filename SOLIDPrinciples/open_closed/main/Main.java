@@ -1,9 +1,9 @@
-package open_closed.main;
+package main;
 
-import open_closed.entities.Defense;
-import open_closed.entities.Forward;
-import open_closed.entities.Midfielder;
-import open_closed.entities.Player;
+import entities.Defense;
+import entities.Forward;
+import entities.Midfielder;
+import entities.Player;
 
 public class Main {
 

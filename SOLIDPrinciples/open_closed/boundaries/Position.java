@@ -1,4 +1,4 @@
-package open_closed.boundaries;
+package boundaries;
 
 public interface Position {
 
